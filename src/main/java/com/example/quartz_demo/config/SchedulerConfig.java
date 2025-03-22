@@ -1,7 +1,6 @@
 package com.example.quartz_demo.config;
 
 import com.example.quartz_demo.service.MessageService;
-import com.example.quartz_demo.service.ScheduleManager;
 import org.quartz.JobBuilder;
 import org.quartz.JobDetail;
 import org.quartz.Scheduler;
